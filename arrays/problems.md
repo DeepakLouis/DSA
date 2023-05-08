@@ -7,11 +7,11 @@
 
 #### 1. [Maximum subarray sum](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) 
 
-**Approach**
+**Approach**  
 [ ] Brute Force  
 [ ] O(N) 
 [ ] Sliding window  
 [ ] Two pointer  
 [ ] Recursion  
-[ ] DP
+[ ] DP  
 [ ] Divide & Conquer
