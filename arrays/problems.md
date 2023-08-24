@@ -8,10 +8,10 @@
 #### 2. [Maximum subarray sum](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) 
 
 **Approach**  
-[*] Brute Force  
-[ ] O(N) 
-[ ] Sliding window  
-[ ] Two pointer  
-[ ] Recursion  
-[ ] DP  
-[ ] Divide & Conquer
+-[ ] Brute Force  
+-[ ] O(N) 
+-[ ] Sliding window  
+-[ ] Two pointer  
+-[ ] Recursion  
+-[ ] DP  
+-[ ] Divide & Conquer
