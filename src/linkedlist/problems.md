@@ -13,3 +13,9 @@
 [Reverse a linked list](https://leetcode.com/problems/reverse-linked-list/description/)
 
 [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+
+[Merge two sorted linked list](https://leetcode.com/problems/merge-two-sorted-lists/solutions/2809815/java/)
+
+[Linked List cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+
+[Intersection of two linked list](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
